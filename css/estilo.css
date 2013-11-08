@@ -1,0 +1,7 @@
+body{background:#f2f2f2;color:#444}
+header{background:#e8e8e8;padding:.2em}
+.contactos li{font-size:1em;display:inline;list-style:none;padding:.3em}
+.logo img{margin:0;width:230px;float:right}
+.menu li{font-size:1.3em}
+.sociales a{padding:.3em}
+.slider-wrapper img{border:1px dashed #444;width:1080px;margin:0 auto}
